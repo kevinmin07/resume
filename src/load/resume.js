@@ -20,4 +20,4 @@ export const resume = `# 姓名
 
 * 长的不行,但是特别能干
 
-`
+`;
